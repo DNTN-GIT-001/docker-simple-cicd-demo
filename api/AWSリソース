@@ -1,0 +1,4 @@
+IAM:GitHubActions
+ECR:simple-cicd-api / simple-cicd-web
+ECS:simple-cicd-cluster / simple-cicd-def / simple-cicd-def-service
+VCP:my-subnet-cicd
